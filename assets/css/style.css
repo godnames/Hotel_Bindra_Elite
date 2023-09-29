@@ -536,8 +536,8 @@ label {
 @media (max-width:767px) {
     .customar-padding {
         margin: 10px;
-        padding-top: 80px;
-        padding-bottom: 45px;
+        padding-top: 30px;
+        padding-bottom: 10px;
         padding-left: 20px;
         padding-right: 20px
     }
